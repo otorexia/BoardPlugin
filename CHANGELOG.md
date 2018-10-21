@@ -1,3 +1,10 @@
+### Version 1.0.0
+- minor bug fix
+- added callback
+- added opt chance, reseve, callback to board (new)
+- added offset opt using parent board (origin/master)
+- code cleanup, docs update
+
 ### Version 1.0.0 - beta
 - BOARD
   - Unlimited board creation
